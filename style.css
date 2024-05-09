@@ -23,12 +23,9 @@
     
     
     }
-    .parana{
-        text-align: center;
-
-    }
+    
     .cabeçalho{
-    width: 18%;
+    width: 28%;
     
     }
     
@@ -38,42 +35,42 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 24px 0;
+    padding: 24px
+      
+}
+.parana{
+    font-size: xx-large;
+    margin: 0%;
+    padding: 2%;
     
-  
+}
+    
+    .parana-dois{
+ font-size: xx-large;
+ margin: 2%;
+    }
+    
+    .cataratas-div{
+width: 20px;
+size: 2cap;
+
+}
+
+   .jardim-botanico-div{
+ width: 20px;
+ size: 2cap;
+
+
+   }
+ 
+   .parque-das-aves-div{
+width: 20px;
+size: 2cap;
+
   }
-    .cabeçalho{
-        padding: 4px 0;
-    }
-    
-    
-    .catarata-imagem{
-        width: 100px;
-    }
-    
-    .catarata-div{
-        width: 24px;
-        padding: 202px 8px;
-    }
-    
-    .jardim-botanico-div{
-        text-align: center;
-        padding: 50px 0;
-    }
-    
-    .parana-texto-dois{
-        text-align: center;
-        padding: 50px 0;
-    }
-    
-    
-    .rodape{
-        background-color: black;
-        text-align: center;
-    }
-    
-    .rodape-imagem{
-        height: 20px;
-        padding: 6px 0;
-       
-    }
+
+   .parque-vila-velha-div{
+width: 20px;
+size: 2cap;
+
+   }
